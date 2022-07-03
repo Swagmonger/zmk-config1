@@ -36,9 +36,9 @@
  * | CAPS  |  ESC  | CTRL  |-------|  GUI  |  ALT  |  Sym  |SK SHFT|---|  Num  | SPACE |  ALT  |  GUI  |-------| Left  | Down  | Right |
  */
                         bindings = <
-&kp  TAB    &kp  Q        &kp  W        &kp  F        &kp  P        &kp  B                                                                         &kp  J        &kp  L        &kp  U        &kp  Y        &kp  SEMI     &kp  DEL
-&kp  LSHFT      &kp  A        &kp  R        &kp  S        &kp  T        &kp  G                                                                         &kp  M        &kp  N        &kp  E        &kp  I        &kp  O        &kp   EQUAL
-&kp  LCTRL    &kp  Z        &kp  X        &kp  C        &kp  D        &kp  V        &kp  MINUS                                           &kp  EQUAL    &kp  K        &kp  H        &kp  COMMA    &kp  DOT      &kp  UP       &kp  MINUS
+&kp  TAB    &kp  Q        &kp  W        &kp  F        &kp  P        &kp  B                                                                         &kp  J        &kp  L        &kp  U        &kp  Y        &kp  SEMI     &kp  GRAVE
+&kp  LSHFT      &kp  A        &kp  R        &kp  S        &kp  T        &kp  G                                                                         &kp  M        &kp  N        &kp  E        &kp  I        &kp  O        &kp   SQT
+&kp  LCTRL    &kp  Z        &kp  X        &kp  C        &kp  D        &kp  V        &kp  MINUS                                           &kp  EQUAL    &kp  K        &kp  H        &kp  COMMA    &kp  DOT      &kp  UP       &kp  SLASH
 &kp ESC    &kp  LBKT      &kp RBKT                  &kp  LALT     &mo  SYM_L     &kp SPACE     &kp LGUI            &kp ENTER    &kp  BSPC    &kp  DEL     &mo  NUM_L                   &kp  LEFT     &kp  DOWN     &kp  RIGHT
                         >;
 			
